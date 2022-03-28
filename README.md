@@ -41,7 +41,7 @@ https://code.visualstudio.com/download
 Sie muss alle Adresse kopieren
 
 ```
- git clone https://github.com/hamidesafari/Calculator.git
+ git clone https://hamidesafari.github.io/Calculator/
 
 
 ```
